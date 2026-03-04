@@ -8,7 +8,7 @@ This mod adds a Trinket slot called the "Lantern Slot" that let's you put a lant
 
 </div>
 
-### Dependencies:
+## Dependencies:
 
 This mod requires [Trinkets](https://modrinth.com/mod/trinkets) to function.
 
@@ -18,7 +18,7 @@ For the in-game config screen you need to install [Mod Menu](https://modrinth.co
 
 Currently you can only configure which side the lantern is on. Making the `Flip Lantern` config value to `true` will move it to the right side rather than the left side.
 
-### Mod Compatibility:
+## Mod Compatibility:
 
 This mod by default works with:
 - Vanilla Lanterns
@@ -41,6 +41,6 @@ Example:
 
 The `"replace": false` is really necessary here, since if you overwrite the default tag none of the lanterns this mod supports will work. Yes, not even the vanilla ones.
 
-### Credits:
+## Credits:
 
 The majority of this mod is written with the help of [Claude AI](https://claude.ai/) but the mod logo and the description is entirely made by me. AI is used here as a tool instead of fully relying on it.
