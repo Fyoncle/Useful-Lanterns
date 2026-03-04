@@ -1,0 +1,59 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:lantern",
+    "minecraft:soul_lantern",
+    {
+      "id": "minecraft:copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_lantern",
+      "required": false
+    },
+    {
+      "id": "chipped:burning_coal_lantern",
+      "required": false
+    },
+    {
+      "id": "chipped:checkered_iron_lantern",
+      "required": false
+    },
+    {
+      "id": "chipped:checkered_iron_soul_lantern",
+      "required": false
+    },
+    {
+      "id": "suppsquared:copper_lantern",
+      "required": false
+    },
+    {
+      "id": "meadow:oil_lantern",
+      "required": false
+    }
+  ]
+}

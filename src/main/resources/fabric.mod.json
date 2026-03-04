@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "usefullanterns",
+  "version": "${version}",
+  "name": "Useful Lanterns",
+  "description": "This mod adds a dedicated Trinket slot for lanterns so you can always make use of them!",
+  "authors": [
+    "Fyoncle"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/useful-lanterns",
+    "sources": "https://github.com/Fyoncle/Useful-Lanterns",
+    "issues": "https://github.com/Fyoncle/Useful-Lanterns/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/usefullanterns/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.usefullanterns.UsefulLanterns"
+    ],
+    "client": [
+      "net.usefullanterns.UsefulLanterns::onInitializeClient"
+    ],
+    "modmenu": [
+      "net.usefullanterns.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "usefullanterns.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "minecraft": "~1.20.1",
+    "fabric-api": "*",
+    "trinkets": "*"
+  },
+  "suggests": {
+    "lambdynlights": "*",
+    "modmenu": "*",
+    "cloth-config": "*"
+  }
+}
