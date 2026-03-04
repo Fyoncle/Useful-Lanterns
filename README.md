@@ -4,6 +4,8 @@
 
 This mod adds a Trinket slot called the "Lantern Slot" that let's you put a lantern on your hip which renders on your character with dynamic lighting and very cool physics.
 
+![Preview](https://i.imgur.com/pgrwmGA.gif)
+
 </div>
 
 ### Dependencies:
