@@ -32,7 +32,7 @@ This mod by default works with:
 But don't worry, you can easily add your own mod compatibility with just a single datapack. By editing the tag `data/trinkets/tags/items/legs/lantern.json` you can make any lantern work with Useful Lanterns!
 
 Example:
-```
+```json
 {
   "replace": false,
   "values": [
