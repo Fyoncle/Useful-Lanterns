@@ -25,6 +25,7 @@ This mod by default works with:
 - [Chipped](https://modrinth.com/mod/chipped)
 - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
 - [[Let's Do] Meadow](https://modrinth.com/mod/lets-do-meadow)
+- [Better Archeology](https://modrinth.com/mod/better-archeology)
 
 But don't worry, you can easily add your own mod compatibility with just a single datapack. By editing the tag `data/trinkets/tags/items/legs/lantern.json` you can make any lantern work with Useful Lanterns!
 

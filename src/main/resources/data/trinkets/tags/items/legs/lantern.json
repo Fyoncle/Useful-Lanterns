@@ -54,6 +54,10 @@
     {
       "id": "meadow:oil_lantern",
       "required": false
+    },
+    {
+      "id": "betterarcheology:radiance_totem",
+      "required": false
     }
   ]
 }
