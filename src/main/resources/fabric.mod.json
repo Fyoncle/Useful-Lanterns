@@ -16,9 +16,6 @@
   "icon": "assets/usefullanterns/icon.png",
   "environment": "*",
   "entrypoints": {
-    "main": [
-      "net.usefullanterns.UsefulLanterns"
-    ],
     "client": [
       "net.usefullanterns.UsefulLanterns::onInitializeClient"
     ],
