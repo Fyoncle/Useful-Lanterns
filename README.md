@@ -6,7 +6,7 @@ This mod adds a Trinket slot called the "Lantern Slot" that let's you put a lant
 
 ![Preview](https://i.imgur.com/pgrwmGA.gif)
 
-## Dependencies:
+## Dependencies
 </div>
 
 This mod requires [Trinkets](https://modrinth.com/mod/trinkets) to function.
@@ -19,7 +19,7 @@ Currently you can only configure which side the lantern is on. Making the `Flip 
 
 <div align="center">
 
-## Mod Compatibility:
+## Mod Compatibility
 </div>
 
 This mod by default works with:
@@ -46,7 +46,7 @@ The `"replace": false` is really necessary here, since if you overwrite the defa
 
 <div align="center">
 
-## Credits:
+## Credits
 </div>
 
 The majority of this mod is written with the help of [Claude AI](https://claude.ai/) but the mod logo and the description is entirely made by me. AI is used here as a tool instead of fully relying on it.
