@@ -13,9 +13,9 @@ This mod requires [Trinkets](https://modrinth.com/mod/trinkets) to function.
 
 For it to emit light [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) is required.
 
-For the in-game config screen you need to install [Mod Menu](https://modrinth.com/mod/modmenu) and [Cloth Config](https://modrinth.com/mod/cloth-config). Otherwise you need to manually edit the file `config/usefullanterns.json`.
+For the in-game config screen you need to install [Mod Menu](https://modrinth.com/mod/modmenu) and [Fzzy Config](https://modrinth.com/mod/fzzy-config). Otherwise you need to manually edit the file `config/usefullanterns/config.toml`.
 
-Currently you can only configure which side the lantern is on. Making the `Flip Lantern` config value to `true` will move it to the right side rather than the left side.
+Currently you can only configure which side the lantern is on. Making the `Lantern On Right Side` config value to `true` will move it to the right side rather than the left side.
 
 <div align="center">
 

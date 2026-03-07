@@ -18,9 +18,6 @@
   "entrypoints": {
     "client": [
       "net.usefullanterns.UsefulLanterns::onInitializeClient"
-    ],
-    "modmenu": [
-      "net.usefullanterns.ModMenuIntegration"
     ]
   },
   "mixins": [
@@ -28,13 +25,26 @@
   ],
   "depends": {
     "fabricloader": ">=0.16.5",
-    "minecraft": "~1.20.1",
+    "minecraft": [
+      ">=1.20 <=1.20.1",
+      ">=1.20.4 <=1.20.6"
+    ],
     "fabric-api": "*",
-    "trinkets": "*"
+    "trinkets": "*",
+    "fzzy_config": "*"
   },
   "suggests": {
     "lambdynlights": "*",
-    "modmenu": "*",
-    "cloth-config": "*"
+    "modmenu": "*"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/WFpDr7zY8Z"
+      }
+    },
+    "fzzy_config": [
+      "usefullanterns"
+    ]
   }
 }

@@ -131,7 +131,7 @@ public class LanternTrinketRenderer implements TrinketRenderer {
         p.prevRenderFore = p.foreAngle;
 
         // ── Flip config — mirrors lantern to right side ───────────────────────
-        boolean flipped = UsefulLanternsConfig.get().flipLantern;
+        boolean flipped = (UsefulLanternsConfig.config.lanternOnRightSide);
         float posX = flipped ? -POS_X : POS_X;
         float rotateY = flipped ? -ROTATE_Y : ROTATE_Y;
         float rotateZ = flipped ? -ROTATE_Z : ROTATE_Z;

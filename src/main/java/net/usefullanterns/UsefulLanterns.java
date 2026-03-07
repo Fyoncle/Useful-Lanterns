@@ -12,9 +12,11 @@ import net.usefullanterns.render.LanternTrinketRenderer;
 
 public class UsefulLanterns {
 
+    public static final String MOD_ID = "usefullanterns";
+
     @Environment(EnvType.CLIENT)
     public static void onInitializeClient() {
-        UsefulLanternsConfig.get();
+        UsefulLanternsConfig.init();
         LanternTrinketRenderer renderer = new LanternTrinketRenderer();
 
         ClientLifecycleEvents.CLIENT_STARTED.register(client -> {
