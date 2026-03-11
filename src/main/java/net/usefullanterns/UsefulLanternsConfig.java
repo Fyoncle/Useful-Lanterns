@@ -10,7 +10,7 @@ public class UsefulLanternsConfig extends Config {
     public boolean lanternOnRightSide = false;
 
     public UsefulLanternsConfig() {
-        super(new Identifier(UsefulLanterns.MOD_ID, "config"));
+        super(Identifier.of(UsefulLanterns.MOD_ID, "config"));
     }
 
     public static void init() {
