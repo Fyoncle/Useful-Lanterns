@@ -8,6 +8,7 @@ import net.minecraft.util.Identifier;
 public class UsefulLanternsConfig extends Config {
     public static UsefulLanternsConfig config = ConfigApiJava.registerAndLoadConfig(UsefulLanternsConfig::new, RegisterType.CLIENT);
     public boolean lanternOnRightSide = false;
+    public float lanternScale = 0.61f;
 
     public UsefulLanternsConfig() {
         super(Identifier.of(UsefulLanterns.MOD_ID, "config"));

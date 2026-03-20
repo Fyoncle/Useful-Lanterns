@@ -33,7 +33,6 @@ public class LanternTrinketRenderer implements TrinketRenderer {
     private static final float ROTATE_Y = 16f;    // negated when flipped
     private static final float ROTATE_Z = 10f;    // negated when flipped
     private static final float DROP = 0.3f;
-    private static final float SCALE = 0.6f;
 
     // ── Physics ───────────────────────────────────────────────────────────────
     private static final float GRAVITY = 0.07f;
@@ -146,7 +145,7 @@ public class LanternTrinketRenderer implements TrinketRenderer {
         matrices.multiply(RotationAxis.POSITIVE_X.rotation((float) Math.toRadians(smoothFore)));
 
         matrices.translate(0.0f, DROP, 0.0f);
-        matrices.scale(SCALE, SCALE, SCALE);
+        matrices.scale(UsefulLanternsConfig.config.lanternScale, UsefulLanternsConfig.config.lanternScale, UsefulLanternsConfig.config.lanternScale);
 
         matrices.multiply(RotationAxis.POSITIVE_X.rotation((float) Math.toRadians(180.0)));
         matrices.multiply(RotationAxis.POSITIVE_X.rotation((float) Math.toRadians(ROTATE_X)));
