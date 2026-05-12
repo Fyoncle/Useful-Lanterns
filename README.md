@@ -3,7 +3,7 @@
 # Useful Lanterns
 
 <a href="https://modrinth.com/modpack/elysium-days" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/Fyoncle/Elysium-Days/main/ed_badge.png" alt="As seen in Elysium Days" width="26%">
+  <img src="https://raw.githubusercontent.com/Fyoncle/Elysium-Days/main/ed_badge.png" alt="As seen in Elysium Days" width="200">
 </a>
 
 <br>
