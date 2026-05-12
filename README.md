@@ -56,6 +56,6 @@ The `"replace": false` is really necessary here, since if you overwrite the defa
 
 ## Credits
 
-The renderer of this mod is written with the help of [Claude AI](https://claude.ai/) but the mod logo and the description is entirely made by me, so is the other classes. AI is used here as a tool for a single class instead of fully relying on it.
+The renderer of this mod is written with the help of [Claude AI](https://claude.ai/) but the mod logo and the description is entirely made by me, so is the other classes. AI is used as a tool here instead of fully relying on it.
 
 </div>
