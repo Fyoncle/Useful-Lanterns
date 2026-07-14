@@ -58,6 +58,14 @@
     {
       "id": "betterarcheology:radiance_totem",
       "required": false
+    },
+    {
+      "id": "enderscape:void_lantern",
+      "required": false
+    },
+    {
+      "id": "enderscape:bulb_lantern",
+      "required": false
     }
   ]
 }
