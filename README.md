@@ -31,7 +31,7 @@ This mod by default works with:
 - [Chipped](https://modrinth.com/mod/chipped)
 - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
 - [[Let's Do] Meadow](https://modrinth.com/mod/lets-do-meadow)
-- [Better Archeology](https://modrinth.com/mod/better-archeology)
+- [Enderscape](https://modrinth.com/mod/enderscape)
 
 <div align="center">
 
@@ -56,6 +56,6 @@ The `"replace": false` is really necessary here, since if you overwrite the defa
 
 ## Credits
 
-The renderer of this mod is written with the help of [Claude AI](https://claude.ai/) but the mod logo and the description is entirely made by me, so is the other classes. AI is used as a tool here instead of fully relying on it.
+The renderer of this mod was written with the assist of [Claude AI](https://claude.ai/) but the mod logo and the description is entirely made by Fyoncle, so is the other classes.
 
 </div>

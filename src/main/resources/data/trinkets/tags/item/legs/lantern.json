@@ -56,10 +56,6 @@
       "required": false
     },
     {
-      "id": "betterarcheology:radiance_totem",
-      "required": false
-    },
-    {
       "id": "enderscape:void_lantern",
       "required": false
     },
