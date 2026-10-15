@@ -3,7 +3,7 @@
 # Useful Lanterns
 
 <a href="https://modrinth.com/modpack/elysium-days" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/Fyoncle/Elysium-Days/main/ed_badge.png" alt="As seen in Elysium Days" width="200">
+  <img src="https://raw.githubusercontent.com/Fyoncle/Elysium-Days/main/ed_badge.png" alt="As seen in Elysium Days" width="26%">
 </a>
 
 <br>
@@ -31,7 +31,7 @@ This mod by default works with:
 - [Chipped](https://modrinth.com/mod/chipped)
 - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
 - [[Let's Do] Meadow](https://modrinth.com/mod/lets-do-meadow)
-- [Better Archeology](https://modrinth.com/mod/better-archeology)
+- [Enderscape](https://modrinth.com/mod/enderscape)
 
 <div align="center">
 
@@ -56,6 +56,8 @@ The `"replace": false` is really necessary here, since if you overwrite the defa
 
 ## Credits
 
-The renderer of this mod is written with the help of [Claude AI](https://claude.ai/) but the mod logo and the description is entirely made by me, so is the other classes. AI is used as a tool here instead of fully relying on it.
+The renderer of this mod was written with the assist of [Claude AI](https://claude.ai/) but the mod logo and the description is entirely made by Fyoncle, so is the other classes.
 
 </div>
+
+[![Kinetic Hosting](https://github.com/Fyoncle/Elysium-Days/blob/main/kinetic_banner.png?raw=true)](https://billing.kinetichosting.com/aff.php?aff=1616)
