@@ -29,6 +29,7 @@ Currently you can configure which side the lantern is on with the `Lantern On Ri
 This mod by default works with:
 - Vanilla Lanterns
 - [Chipped](https://modrinth.com/mod/chipped)
+- [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
 - [[Let's Do] Meadow](https://modrinth.com/mod/lets-do-meadow)
 - [Enderscape](https://modrinth.com/mod/enderscape)
@@ -59,3 +60,5 @@ The `"replace": false` is really necessary here, since if you overwrite the defa
 The renderer of this mod was written with the assist of [Claude AI](https://claude.ai/) but the mod logo and the description is entirely made by Fyoncle, so is the other classes.
 
 </div>
+
+[![Kinetic Hosting](https://github.com/Fyoncle/Elysium-Days/blob/main/kinetic_banner.png?raw=true)](https://billing.kinetichosting.com/aff.php?aff=1616)
