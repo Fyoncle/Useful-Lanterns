@@ -48,7 +48,15 @@
       "required": false
     },
     {
+      "id": "supplementaries:redstone_lantern",
+      "required": false
+    },
+    {
       "id": "suppsquared:copper_lantern",
+      "required": false
+    },
+    {
+      "id": "suppsquared:crimson_lantern",
       "required": false
     },
     {

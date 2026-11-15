@@ -29,6 +29,7 @@ Currently you can configure which side the lantern is on with the `Lantern On Ri
 This mod by default works with:
 - Vanilla Lanterns
 - [Chipped](https://modrinth.com/mod/chipped)
+- [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
 - [[Let's Do] Meadow](https://modrinth.com/mod/lets-do-meadow)
 - [Enderscape](https://modrinth.com/mod/enderscape)
